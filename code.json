@@ -1,0 +1,129 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-2120403233975259/4463773473",
+        "InterstitialAdmob": "ca-app-pub-2120403233975259/9710013683",
+        "NativeAdmob": "ca-app-pub-2120403233975259/4457687006",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+
+		"maxBanner": "f7a5525108c00ac0A",
+		"maxInterstitial": "5fa0efbeea673f05A",
+		"maxNative": "bf83265395b54ba8A",
+		
+		"ironsource_appKey": "",
+		
+		"unity_game_id": "5093543",
+		"unity_test": false,
+		"unity_banner": "Banner_Android",
+		"unity_interstitial": "Interstitial_Android",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "",
+        "ImageBannerURL" : ""
+		
+      },
+
+    "items": [
+      {
+        "title": "The APK File",
+        "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2013/07/Google-Play-logo-1.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "APK is a file type, like an MSI for Windows or an DMG for Mac, that contains the code and resources for Android apps. It’s often referred to as an app, but it’s actually more like a container for an app. That’s because it contains all of the resources, permissions, and code needed to install and run an app.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "The APK File",
+        "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2013/07/Google-Play-logo-1.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "APK is a file type, like an MSI for Windows or an DMG for Mac, that contains the code and resources for Android apps. It’s often referred to as an app, but it’s actually more like a container for an app. That’s because it contains all of the resources, permissions, and code needed to install and run an app.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "The APK File",
+        "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2013/07/Google-Play-logo-1.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "APK is a file type, like an MSI for Windows or an DMG for Mac, that contains the code and resources for Android apps. It’s often referred to as an app, but it’s actually more like a container for an app. That’s because it contains all of the resources, permissions, and code needed to install and run an app.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "The APK File",
+        "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2013/07/Google-Play-logo-1.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "APK is a file type, like an MSI for Windows or an DMG for Mac, that contains the code and resources for Android apps. It’s often referred to as an app, but it’s actually more like a container for an app. That’s because it contains all of the resources, permissions, and code needed to install and run an app.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+     {
+        "title": "The APK File",
+        "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2013/07/Google-Play-logo-1.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "APK is a file type, like an MSI for Windows or an DMG for Mac, that contains the code and resources for Android apps. It’s often referred to as an app, but it’s actually more like a container for an app. That’s because it contains all of the resources, permissions, and code needed to install and run an app.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "The APK File",
+        "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2013/07/Google-Play-logo-1.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "APK is a file type, like an MSI for Windows or an DMG for Mac, that contains the code and resources for Android apps. It’s often referred to as an app, but it’s actually more like a container for an app. That’s because it contains all of the resources, permissions, and code needed to install and run an app.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "The APK File",
+        "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2013/07/Google-Play-logo-1.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "APK is a file type, like an MSI for Windows or an DMG for Mac, that contains the code and resources for Android apps. It’s often referred to as an app, but it’s actually more like a container for an app. That’s because it contains all of the resources, permissions, and code needed to install and run an app.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      }
+    ]
+
+  }
+}
